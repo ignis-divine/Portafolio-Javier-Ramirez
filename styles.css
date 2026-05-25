@@ -337,7 +337,7 @@ body {
 .project-card {
     background: var(--light-bg);
     border-radius: 10px;
-    overflow: hidden;
+    overflow: auto;
     border: 1px solid rgba(0, 102, 255, 0.2);
     transition: var(--transition);
     display: flex;
